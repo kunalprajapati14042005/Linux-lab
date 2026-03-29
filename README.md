@@ -52,3 +52,8 @@ elif [ $x -eq $y ]
 then
     echo "x is equal to y"
 fi
+Operator,Description
+-gt,Greater Than
+-lt,Less Than
+-eq,Equal To
+$((...)),Arithmetic Expansion
